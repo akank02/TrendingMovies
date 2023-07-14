@@ -1,0 +1,19 @@
+routing, favourites pe click kru to vo aae nhi to main page khhule, 
+
+Routing: react router dom module
+
+to install: npm install react-router-dom //package
+
+ we gwt 3 things from this module and more:
+
+
+1.browser router:
+    meri app mei component ko wrap krdeta hai. jin components ko wrap krunga usmein routing ki facility aa jaati hai
+
+
+2.route     
+    diff routes ke liye diff pages chlne chahiye, route helps         
+    self closing tag, 1st property: path'/' component={}
+
+
+3.switch
